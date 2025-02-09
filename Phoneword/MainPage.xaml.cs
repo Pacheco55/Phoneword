@@ -1,6 +1,7 @@
 ﻿namespace Phoneword;
 public partial class MainPage : ContentPage
 {
+    public const double MyFontSize = 50;
     public MainPage()
     {
         InitializeComponent();
